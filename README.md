@@ -77,8 +77,7 @@
 <br>
 
 ## Front-end 기능 구현
-
-✍️ [프로젝트 회고](https://velog.io/@seul06/1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0) <br>
+✍️ [프로젝트 회고](https://velog.io/@seul06/towe-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0) <br>
 ✍️ [메인페이지 애니메이션 구현 기록](https://velog.io/@seul06/1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 ### 메인 페이지
